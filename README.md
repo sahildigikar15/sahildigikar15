@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahildigikar15)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **sahildigikar15/sahildigikar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
